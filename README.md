@@ -1,6 +1,6 @@
 # Cave Escape!
 
-Educational material written by myself and @jakerenzella for the purposes of teaching computer programming.
+Educational material written by myself and [@jakerenzella](https://github.com/jakerenzella) for the purposes of teaching computer programming.
 
 Demonstrated at numerous schools and university promotional events.
 
