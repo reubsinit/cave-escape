@@ -1,0 +1,7 @@
+(06/42/2020) WARNING -> Unable to locate bundle file for CaveEscape (/Users/reubenwilson/Projects/cave-escape/pascal/Resources/bundles/CaveEscape.txt) [/Users/caina/Documents/Code/splashkit/coresdk/src/coresdk/bundles.cpp:77]
+(06/42/2020) WARNING -> Attempting to get width of invalid bitmap [/Users/caina/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:449]
+(06/42/2020) WARNING -> Attempting to get height of invalid bitmap [/Users/caina/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:465]
+(06/42/2020) WARNING -> Attempting to get width of invalid bitmap [/Users/caina/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:449]
+(06/42/2020) WARNING -> Attempting to get height of invalid bitmap [/Users/caina/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:465]
+(06/42/2020) WARNING -> Attempting to read details of invalid bitmap [/Users/caina/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:497]
+(06/42/2020) WARNING -> Attempting to get height of invalid bitmap [/Users/caina/Documents/Code/splashkit/coresdk/src/coresdk/images.cpp:465]

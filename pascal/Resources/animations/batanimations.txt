@@ -1,0 +1,16 @@
+SwinGame Animation #v1
+
+f: 0, 0, 100, 1
+f: 1, 1, 10, 0
+
+i:Rest,0
+
+f: 2, 2, 10, 3
+f: 3, 3, 10, 2
+
+i:FlyLeft,2
+
+f: 4, 4, 10, 5
+f: 5, 5, 10, 4
+
+i:FlyRight,4
